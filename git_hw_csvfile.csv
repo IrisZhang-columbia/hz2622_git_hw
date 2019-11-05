@@ -1,5 +1,11 @@
 I am not sure we could create csv file with vim.
 
+<<<<<<< HEAD
 Hang Zhang
 
 Make changes on the master branch.
+=======
+Hang Zhan
+
+Make some changes on the feature1 branch.
+>>>>>>> feature1
