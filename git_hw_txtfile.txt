@@ -1,0 +1,3 @@
+This is a txt file for the first git homework.
+
+Hang Zhang
